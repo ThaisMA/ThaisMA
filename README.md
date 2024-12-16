@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## Recent projects:
 
-<a href="https://github.com/ThaisMA/JavaScript-Exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThaisMA&repo=JavaScript-Exercises&title_color=6937a0&text_color=000000&bg_color=#ffffff&border_color=121111&icon_color=F2F2F2&border_radius=20" height="130"/></a>
-<a href="https://github.com/ThaisMA/Python-Exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThaisMA&repo=Python-Exercises&title_color=6937a0&text_color=000000&bg_color=#ffffff&border_color=121111&icon_color=F2F2F2&border_radius=20" height="130"/></a>
+<a href="https://github.com/ThaisMA/JavaScript-Exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThaisMA&repo=JavaScript-Exercises&title_color=6937a0&text_color=000000&bg_color=#ffffff&border_color=121111&icon_color=F2F2F2&border_radius=20" height="110"/></a>
+<a href="https://github.com/ThaisMA/Python-Exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThaisMA&repo=Python-Exercises&title_color=6937a0&text_color=000000&bg_color=#ffffff&border_color=121111&icon_color=F2F2F2&border_radius=20" height="110"/></a>
 
 
 
