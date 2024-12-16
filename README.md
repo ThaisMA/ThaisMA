@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<h1><b> Hi there 🖖🏽, I'm Thais M. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
+<h1><b> Hi there 🖖🏽, I'm Thais M. </b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
 
 - 🔭 I’m currently working on security information
