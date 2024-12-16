@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 | <a href="https://github.com/ThaisMA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaisMA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thais' github stats" /></a> | <a href="https://github.com/ThaisMA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMA&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## Contribution
 
+If my progress is interesting to you, give me a star ⭐
+
+Thanks 🍩!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thaismelo2s)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
